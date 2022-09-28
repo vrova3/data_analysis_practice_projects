@@ -1,4 +1,4 @@
-# Roman Varum - Data Analysis Portfolio: Practice Projects
+# Roman Varum - Data Analysis Portfolio
 
 ## About
 

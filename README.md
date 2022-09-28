@@ -36,14 +36,14 @@ In this section I will briefly describe each of the projects and what kind of pr
 
 ### Statistical Analysis: Comparing Mobile Plans
 **Code:** [`p3_statistical_analysis_Megaline_Mobile_Plans.ipynb`](https://github.com/vrova3/data_analysis_practice_projects/blob/main/p3_statistical_analysis_Megaline_Mobile_Plans.ipynb)
-**Description:** The data for this project is scattered across 5 datasets: data on web sessions, calls, messages, and users, and a table describing the different plans.
-**Skills:** data cleaning, data analysis, descriptive statistics, data visualisation, hypothesis testing (t-testing) .
+**Description:** The data for this project is scattered across 5 datasets: data on web sessions, calls, messages, and users, and a table describing the different plans. 
+**Skills:** data cleaning, data analysis, descriptive statistics, data visualisation, hypothesis testing (t-testing) . 
 **Technology:** Python, Pandas, NumPy, SciPy Stats, MatPlotlib, SeaBorn.
 
 ### Integrated Project 1: Video Game Sales Research
-**Code:** [`p4_integrated_project_1_Video_Game_Sales.ipynb`](https://github.com/vrova3/data_analysis_practice_projects/blob/main/p4_integrated_project_1_Video_Game_Sales.ipynb)
-**Description:** The dataset contains 16715 entries, where each is a record for a video game, with fields describing its title, genre, year of release, platform, critic and user scores, and sales figures for North America, the EU, Japan and the rest of the other markets.
-**Skills:** data cleaning, data analysis, descriptive statistics, data visualisation, hypothesis testing (t-testing), statistical testing.
+**Code:** [`p4_integrated_project_1_Video_Game_Sales.ipynb`](https://github.com/vrova3/data_analysis_practice_projects/blob/main/p4_integrated_project_1_Video_Game_Sales.ipynb) 
+**Description:** The dataset contains 16715 entries, where each is a record for a video game, with fields describing its title, genre, year of release, platform, critic and user scores, and sales figures for North America, the EU, Japan and the rest of the other markets. 
+**Skills:** data cleaning, data analysis, descriptive statistics, data visualisation, hypothesis testing (t-testing), statistical testing. 
 **Technology:** Python, Pandas, NumPy, SciPy Stats, MatPlotlib, SeaBorn.
 
 ### Business Analytics: Calculating LTV, CAC, ROI for Online Afisha App

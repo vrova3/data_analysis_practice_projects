@@ -62,7 +62,7 @@ In this section I will briefly describe each of the projects and what kind of pr
 **Code:** [`p7_data_stories_Market_Research_Restaurants_in_LA.ipynb`](https://github.com/vrova3/data_analysis_practice_projects/blob/main/p7_data_stories_Market_Research_Restaurants_in_LA.ipynb)
 **Presentation** [`p7_slides_restaurants_in_LA.pdf`](https://github.com/vrova3/data_analysis_practice_projects/blob/main/p7_slides_restaurants_in_LA.pdf)
 **Description:** This project's dataset contains 9561 entries on restaurants in L.A., each recording a single place with fields providing its name, address, number of seats, the type of establishment and whether it's part of a chain or a standalone place.
-**Skills:** data cleaning, data analysis, descriptive statistics, regular expressions, data visualisation, market research.
+**Skills:** data cleaning, data analysis, descriptive statistics, regular expressions, data visualisation, market research, storytelling.
 **Technology:** Python, Pandas, RegEx, MatPlotlib, SeaBorn.
 
 ### Integrated Project 2: Analysing User Behaviour for a Foodtech Startup
@@ -70,3 +70,10 @@ In this section I will briefly describe each of the projects and what kind of pr
 **Description:** The data for this project contains 244126 entries recording time-series user logs of a food delivery app or website, with fields for user ID, timestamp, event screen (e.g. Main Screen, Cart, Payment Successful etc.) and their experimental group following an A/B testing period.
 **Skills:** data cleaning, data analysis, descriptive statistics, data visualisation, sales funnels, A/A and A/B testing, statistical testing (proportion tests).
 **Technology:** Python, Pandas, SciPy Stats, MatPlotlib, SeaBorn, Plotly.
+
+### Data Visualisation Using Tableau: Researching YouTube Trends
+**Dashboard:** [`Youtube_Trends_Dashboard`](https://tabsoft.co/3MTzR23)
+**Presentation:** [`p9_dashboard_and_presentation_with_tableau_YouTube_Trends.pdf`](https://github.com/vrova3/data_analysis_practice_projects/blob/main/p9_dashboard_and_presentation_with_tableau_YouTube_Trends.pdf)    
+**Description:** The dataset for this project contains 12343 entries of time-series data, where each is a record of a trending category, with fields providing the record ID, category title or genre, the video count for that category, trending date, and region (one of 5: U.S.A., France, India, Japan and Russia).
+**Skills:** data analysis, descriptive statistics, dashboard design, storytelling.
+**Technology:** Tableau.

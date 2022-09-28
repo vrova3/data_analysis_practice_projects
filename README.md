@@ -30,14 +30,14 @@ In this section I will briefly describe each of the projects and what kind of pr
 
 ### Exploratory Data Analysis: Car Sales Ads Research
 **Code:** [`p2_EDA_Car_Sales_Ads.ipynb`](https://github.com/vrova3/data_analysis_practice_projects/blob/main/p2_EDA_Car_Sales_Ads.ipynb)
-**Description:** The dataset has 51525 entries for individual car sale ads posted on a classified ads website and contains 13 fields describing the car characteristics and the duration of the ad.
+**Description:** The dataset has 51525 entries for individual car sale ads posted on a classified ads website and contains 13 fields describing the car characteristics and the duration of the ad.  
 **Skills:** data cleaning, data analysis, descriptive statistics, data visualisation.  
 **Technology:** Python, Pandas, NumPy, MatPlotlib.
 
 ### Statistical Analysis: Comparing Mobile Plans
-**Code:** [`p3_statistical_analysis_Megaline_Mobile_Plans.ipynb`](https://github.com/vrova3/data_analysis_practice_projects/blob/main/p3_statistical_analysis_Megaline_Mobile_Plans.ipynb)
-**Description:** The data for this project is scattered across 5 datasets: data on web sessions, calls, messages, and users, and a table describing the different plans. 
-**Skills:** data cleaning, data analysis, descriptive statistics, data visualisation, hypothesis testing (t-testing) . 
+**Code:** [`p3_statistical_analysis_Megaline_Mobile_Plans.ipynb`](https://github.com/vrova3/data_analysis_practice_projects/blob/main/p3_statistical_analysis_Megaline_Mobile_Plans.ipynb) 
+**Description:** The data for this project is scattered across 5 datasets: data on web sessions, calls, messages, and users, and a table describing the different plans.  
+**Skills:** data cleaning, data analysis, descriptive statistics, data visualisation, hypothesis testing (t-testing).   
 **Technology:** Python, Pandas, NumPy, SciPy Stats, MatPlotlib, SeaBorn.
 
 ### Integrated Project 1: Video Game Sales Research

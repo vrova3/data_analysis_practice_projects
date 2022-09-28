@@ -17,7 +17,7 @@ Below is a collection of my practice projects. I've uploaded them as they are, c
   + [Making Business Decisions Based on Data: A/B Testing for an Online Store](#making-business-decisions-based-on-data-ab-testing-for-an-online-store)
   + [Data Stories: Researching L.A. Restaurant Market](#data-stories-researching-la-restaurant-market)
   + [Integrated Project 2: Analysing User Behaviour for a Foodtech Startup](#integrated-project-2-analysing-user-behaviour-for-a-foodtech-startup)
-  + [Data Visualisation Using Tableau: Researching YouTube Trends](#p9_dashboard_and_presentation_with_tableau_YouTube_Trends)
+  + [Data Visualisation Using Tableau: Researching YouTube Trends](#data-visualisation-using-tableau-researching-youtube-trends)
   
 ## Portfolio Projects
 In this section I will briefly describe each of the projects and what kind of problems I solved completing them.

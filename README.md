@@ -5,7 +5,7 @@
 Hi, I'm Roman! I'm an aspiring data analyst passionate about tech, languages, and dataviz, currently seeking a junior or entry-level analytics role. A political and investigative reporter in the past with a knack for finding patterns and artifacts buried in numbers. In love with science fiction, blues music, and sports. 
 
 <br>
-Below is a collection of my practice projects. I've uploaded them as they are, complete with feedback and the reviews I got from professional data analysts who've pointed out occasional mistakes, suggested improvements or complemented the word done!
+Below is a collection of my practice projects. I've uploaded them as they are, complete with feedback and the reviews I got from professional data analysts who've pointed out occasional mistakes, suggested improvements or complemented the work done.
 <br>
 
 ## Table of contents

@@ -9,14 +9,14 @@ Below is a collection of my practice projects. I've uploaded them as they are, c
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Data Cleaning: Analysing Borrowers' Risk of Default](#p1_data_cleaning_Borrowers_Risk_of_Defaulting)
-	+ [Exploratory Data Analysis: Car Sales Ads Research](#p2_EDA_Car_Sales_Ads)
-	+ [Statistical Analysis: Comparing Mobile Plans](#p3_statistical_analysis_Megaline_Mobile_Plans)
-	+ [Integrated Project 1: Video Game Sales Research](#p4_integrated_project_1_Video_Game_Sales)
-	+ [Business Analytics: Calculating LTV, CAC, ROI for Online Afisha App](#p5_business_analytics_LTV_CAC_ROI_for_Online_Afisha_App)
+	+ [Data Cleaning: Analysing Borrowers' Risk of Default](#data-cleaning-analysing-borrowers-risk-of-default)
+	+ [Exploratory Data Analysis: Car Sales Ads Research](#exploratory-data-analysis-car-sales-ads-research)
+	+ [Statistical Analysis: Comparing Mobile Plans](#statistical-analysis-comparing-mobile-plans)
+	+ [Integrated Project 1: Video Game Sales Research](#integrated-project-1-video-game-sales-research)
+	+ [Business Analytics: Calculating LTV, CAC, ROI for Online Afisha App](#business-analytics-calculating-ltv-cac-roi-for-online-afisha-app)
   + [Making Business Decisions Based on Data: A/B Testing for an Online Store](#making-business-decisions-based-on-data-ab-testing-for-an-online-store)
   + [Data Stories: Researching L.A. Restaurant Market](#data-stories-researching-la-restaurant-market)
-  + [Integrated Project 2: Analysing User Behaviour for a Foodtech Startup](#p8_integrated_project_2_Analysing_FoodTech_User_Behaviour)
+  + [Integrated Project 2: Analysing User Behaviour for a Foodtech Startup](#integrated-project-2-analysing-user-behaviour-for-a-foodtech-startup)
   + [Data Visualisation Using Tableau: Researching YouTube Trends](#p9_dashboard_and_presentation_with_tableau_YouTube_Trends)
   
 ## Portfolio Projects
